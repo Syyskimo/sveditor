@@ -2,6 +2,8 @@
   "name": "@syyskimo/sveditor",
   "version": "0.2.0",
   "license": "MIT",
+  "description": "Simple data-editor with Svelte, material UI and custom components",
+  "homepage": "https://github.com/Syyskimo/sveditor",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
